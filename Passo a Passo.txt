@@ -1,0 +1,7 @@
+Criar projeto novo com o Node.js
+1) Chegar na pasta do projeto pelo terminal
+2) Usar comando "npm init" ou "npm init -y"
+3) Criar arquivo base (server.js)
+4) Comando NPM
+	npm install nomeDaBiblioteca -S
+
